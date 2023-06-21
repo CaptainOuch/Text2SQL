@@ -1,0 +1,55 @@
+2023-06-21 19:37:00,353 INFO Text2SQL response: I apologize, but there was an error in executing the SQL query. Please try again later. 
+
+2023-06-21 19:37:01,117 INFO Matcher response: Correct 
+
+2023-06-21 19:37:01,118 INFO Выполнение:1 из 7. Количество верных ответов - 1 
+
+2023-06-21 19:37:18,512 INFO Text2SQL response: The highest number of users per day in Q1 2023 was recorded on March 2, 2023, with a total of 155 users. 
+
+2023-06-21 19:37:19,307 INFO Matcher response: Correct 
+
+2023-06-21 19:37:19,308 INFO Выполнение:2 из 7. Количество верных ответов - 2 
+
+2023-06-21 19:38:35,580 INFO Text2SQL response: The maximum daily visits on the website in 2022 was 2100. 
+
+2023-06-21 19:38:36,384 INFO Matcher response: Correct 
+
+2023-06-21 19:38:36,384 INFO Выполнение:3 из 7. Количество верных ответов - 3 
+
+2023-06-21 19:38:54,173 INFO Text2SQL response: The average CPC in Google Ads in April 2023 was approximately 1.20. 
+
+2023-06-21 19:38:57,836 INFO Matcher response: Correct 
+
+2023-06-21 19:38:57,836 INFO Выполнение:4 из 7. Количество верных ответов - 4 
+
+2023-06-21 19:39:09,053 INFO Text2SQL response: In 2022, we had a total of 3,490 LinkedIn clicks. 
+
+2023-06-21 19:39:10,028 INFO Matcher response: Correct 
+
+2023-06-21 19:39:10,028 INFO Выполнение:5 из 7. Количество верных ответов - 5 
+
+2023-06-21 19:40:18,660 INFO Text2SQL response: Based on the data from the analytics table, the platform with the highest CPC (Cost Per Click) in 2022 is Google. The average CPC for Google in 2022 is 1.488. 
+
+2023-06-21 19:40:19,707 INFO Matcher response: Wrong 
+
+2023-06-21 19:40:19,707 INFO Выполнение:6 из 7. Количество верных ответов - 5 
+
+2023-06-21 19:40:57,119 INFO Text2SQL response: Based on the query results, the best ad names by clicks from Facebook, Google, and LinkedIn for 2022 are as follows:
+
+1. Ad Name 36 - 260 clicks
+2. Ad Name 54 - 260 clicks
+3. Ad Name 72 - 260 clicks
+4. Ad Name 90 - 260 clicks
+5. Ad Name 9 - 260 clicks
+6. Ad Name 96 - 240 clicks
+7. Ad Name 69 - 240 clicks
+8. Ad Name 78 - 240 clicks
+9. Ad Name 24 - 240 clicks
+10. Ad Name 60 - 240 clicks
+
+Please note that these are the top 10 ad names based on the number of clicks, and the list continues with more ad names and their respective click counts. 
+
+2023-06-21 19:40:58,091 INFO Matcher response: Correct 
+
+2023-06-21 19:40:58,091 INFO Выполнение:7 из 7. Количество верных ответов - 6 
+

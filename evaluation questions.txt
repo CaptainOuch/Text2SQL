@@ -1,0 +1,20 @@
+How many active agency customers did we have on January 1st, 2022?
+The query did not return any results. This means that there is no data available for the number of active agency customers on January 1st, 2022 in the "analytics" table.
+
+When did we get the highest number of users per day in Q1 2023?
+The highest number of users per day in Q1 2023 was 85, and it occurred on March 2, 2023.
+
+When did we get the maximum of daily visits on the website in 2022?
+The maximum number of daily visits on the website in 2022 was recorded on May 2nd, 2022, with a total of 2100 visits.
+
+What was the average CPC in Google Ads in April 2023?
+The average CPC in Google Ads in April 2023 is approximately 1.20.
+
+How many LinkedIn clicks did we have in 2022?
+Based on the query results, we had a total of 3,490 LinkedIn clicks in 2022.
+
+Which platform had the highest CPC in 2022: Google or Bing?
+Based on the data from the "analytics" table, the platform with the highest CPC (Cost Per Click) in 2022 was Google, with a CPC value of 1.90. Bing had a slightly lower CPC value of 1.80 in 2022.
+
+Get the best ad name by clicks from Facebook, Google, and LinkedIn for 2022.
+The best ad name by clicks from Facebook, Google, and LinkedIn for 2022 is "Ad Name 9" with a total of 260 clicks.
