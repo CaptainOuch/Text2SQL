@@ -2,11 +2,10 @@
 
 - [ ] The name of the pull request and test environment are correct
 
-## Affected functionality
+**## Affected functionality**
 <!-- Please provide a brief description of the functionality affected by this PR -->
 '
 
-## How to test
+**## How to test**
 <!-- Please provide instructions on how to test this PR -->
 '
-```
